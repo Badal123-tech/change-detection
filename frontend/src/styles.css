@@ -1,0 +1,6 @@
+.container{ max-width:900px; margin:20px auto; font-family: Arial, sans-serif;}
+.uploader{ display:flex; gap:12px; align-items:center; margin-bottom:18px;}
+.preview{ width:300px; border:1px solid #ddd; display:block;}
+.compare{ display:flex; gap:20px; align-items:flex-start;}
+.mask{ position:absolute; top:0; left:0; width:300px; opacity:0.6; mix-blend-mode: multiply;}
+button{ padding:8px 12px; }

@@ -1,0 +1,31 @@
+
+ml_model/venv/
+backend/venv/
+venv/
+
+# data and images (large datasets)
+data/
+images/
+masks/
+
+# ML model weights and large binaries
+ml_model/*.h5
+ml_model/*.pt
+ml_model/*.pth
+
+# Node / frontend
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+# caches / python
+__pycache__/
+*.pyc
+
+# environment / editor
+.env
+.vscode/
+.DS_Store
+*.log
+EO
+*.log
