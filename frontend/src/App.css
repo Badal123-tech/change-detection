@@ -33,6 +33,22 @@
   }
 }
 
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.preview {
+  max-width: 100%;
+  height: auto;
+}
+
+.uploader, .compare, .results {
+  margin: 20px 0;
+}
+
+
 .card {
   padding: 2em;
 }
