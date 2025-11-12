@@ -3,10 +3,10 @@ ml_model/venv/
 backend/venv/
 venv/
 
-# data and images (large datasets)
-data/
-images/
-masks/
+# # data and images (large datasets)
+# data/
+# images/
+# masks/
 
 # ML model weights and large binaries
 ml_model/*.h5
