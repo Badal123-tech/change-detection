@@ -6,7 +6,7 @@ venv/
 # # data and images (large datasets)
 # data/
 # images/
-# masks/
+masks/
 
 # ML model weights and large binaries
 ml_model/*.h5
