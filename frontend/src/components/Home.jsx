@@ -58,11 +58,11 @@ export default function Home() {
       <section className="stats-section">
         <div className="stats-container">
           <div className="stat-item">
-            <div className="stat-number">99%</div>
+            <div className="stat-number">83%</div>
             <div className="stat-label">Accuracy</div>
           </div>
           <div className="stat-item">
-            <div className="stat-number">5min</div>
+            <div className="stat-number">1min</div>
             <div className="stat-label">Processing Time</div>
           </div>
           <div className="stat-item">
